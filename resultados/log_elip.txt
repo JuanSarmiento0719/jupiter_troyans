@@ -1,0 +1,3 @@
+/home/claude/troyanos/troyanos.py:165: RuntimeWarning: invalid value encountered in sqrt
+  E = 2*np.arctan2(np.sqrt(1-e)*np.sin(f/2), np.sqrt(1+e)*np.cos(f/2))
+eliptico tiempo de computo 223.34691381454468 s

@@ -1,0 +1,65 @@
+{
+ "T_lin_yr": 147.43123424019865,
+ "T_fast_yr": 11.901515375408803,
+ "mu": 0.0009538811576158649,
+ "T_J": 11.862924779310003,
+ "D_umbral_1pct": 11.67795998957778,
+ "D_umbral_5pct": 27.960111927735188,
+ "D_umbral_10pct": 37.8036726598334,
+ "D_max_renacuajo": 71.18893447665907,
+ "phimin_ultimo_renacuajo": 25.0,
+ "N_total": 14809,
+ "N_L4": 9057,
+ "N_L5": 5752,
+ "N_escapan": 30,
+ "N_escapan_circ": 30,
+ "N_escapan_ambos": 29,
+ "amp_percentiles_5_25_50_75_95": [
+  4.3,
+  9.5,
+  14.6,
+  19.8,
+  27.9
+ ],
+ "per_percentiles_5_25_50_75_95": [
+  146.4,
+  149.2,
+  151.8,
+  156.3,
+  163.5
+ ],
+ "frac_amp_bajo_umbral_1pct": 0.3571960213816902,
+ "frac_T_dentro_1pct_lineal": 0.18467889287406103,
+ "frac_amp_bajo_umbral_5pct": 0.9504025982813451,
+ "frac_T_dentro_5pct_lineal": 0.6776070921025918,
+ "frac_amp_bajo_umbral_10pct": 0.9991203735029434,
+ "frac_T_dentro_10pct_lineal": 0.9219733369425458,
+ "phi_medio_obs_L4": 63.05783294824627,
+ "phi_medio_obs_L5": 62.3811865107269,
+ "phi_medio_obs_L4_err": 0.12883655263160726,
+ "phi_medio_obs_L5_err": 0.16547888352160112,
+ "phi_medio_modelo_L4": 63.189288836072926,
+ "phi_medio_modelo_L5": 62.41701981975233,
+ "circ_vs_elip_dAmp_mediana_deg": 0.3238830214287134,
+ "circ_vs_elip_dT_mediana_rel": 0.003854317173268443,
+ "circ_vs_elip_dAmp_p95_deg": 1.1872521592420766,
+ "T_amp_lt10_por_inc": {
+  "0-10": [
+   1589,
+   147.5290469367995
+  ],
+  "10-20": [
+   1345,
+   149.60633541200588
+  ],
+  "20-30": [
+   768,
+   156.09543251681404
+  ],
+  "30-60": [
+   341,
+   162.10512698816808
+  ]
+ },
+ "Dlin_vs_Dnum_mediana_rel": 0.08510188614459736
+}
